@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="ShowXMLQuestions.xsl"?>
+<assessmentItems>
+	<assessmentItem subject="Web" author="jvadillo001@ikasle.ehu.eus">
+		<itemBody>
+			<p>Tag HTML para a&#xF1;adir un formulario</p>
+		</itemBody>
+		<correctResponse>
+			<value>
+				FORM
+			</value>
+		</correctResponse>
+		<incorrectResponses>
+			<value> OBJECT </value>
+			<value> TABLE </value>
+			<value> DIV </value>
+		</incorrectResponses>
+		<rutaImg>../images/resig.jpg</rutaImg>
+	</assessmentItem>
+	<assessmentItem subject="Internet" author="rarruabarrena001@ikasle.ehu.eus">
+		<itemBody>
+			<p>Este protocolo acabar&#xE1; funcionando
+			incluso entre dos latas unidas por un cord&#xF3;n</p>
+		</itemBody>
+		<correctResponse>
+			<value>
+				TCP/IP
+			</value>
+		</correctResponse>
+		<incorrectResponses>
+			<value> HTTP </value>
+			<value> SMTP </value>
+			<value> Ninguna es correcta </value>
+		</incorrectResponses>
+		<rutaImg>../images/Sin titulo.png</rutaImg>
+	</assessmentItem>
+<assessmentItem subject="Pibiricus" author="druiz046@ikasle.ehu.eus"><itemBody><p>&#xBF;Momo o Tzuyu?</p></itemBody><correctResponse><value>Ambas</value></correctResponse><incorrectResponses><value>Momo</value><value>Tzuyu</value><value>Biricu</value></incorrectResponses><rutaImg>../images/80756740_586963275462546_621104002509251206_n.jpg</rutaImg></assessmentItem><assessmentItem subject="Global" author="ibereciartua003@ikasle.ehu.eus"><itemBody><p>Esta va a ser la definitiva?</p></itemBody><correctResponse><value>Si</value></correctResponse><incorrectResponses><value>No</value><value>Quiz&#xE1;s </value><value>Va a ser que no</value></incorrectResponses><rutaImg>../images/1518002918_979077_1518002953_noticia_normal.jpg</rutaImg></assessmentItem></assessmentItems>
